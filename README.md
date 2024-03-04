@@ -4,10 +4,18 @@
 This project is designed to calculate the jump height of individuals using video analysis. By leveraging the YOLOv8 algorithm to detect and track keypoints (specifically, hips and ankles) of a person jumping, the project calculates the jump height based on the trajectory of these keypoints. This tool is particularly useful in sports science, physical education, and personal fitness to measure and analyze jump performance.
 
 Here's a demo of jump height calculation during a Volleyball match:
-https://github.com/DaniyalAhmadKhan-LUMS/Jump-Height-Calculator/assets/60844063/07ed1cfd-61e7-4254-89dd-de836b34cd06
+
+
+https://github.com/DaniyalAhmadKhan-LUMS/Jump-Height-Calculator/assets/60844063/f99d0bae-a8d0-4fe0-b92b-80907839fd5e
+
+
 
 Another demo:
-https://github.com/DaniyalAhmadKhan-LUMS/Jump-Height-Calculator/assets/60844063/2937b58d-079f-42aa-adac-d1fbb14a7abd
+
+
+https://github.com/DaniyalAhmadKhan-LUMS/Jump-Height-Calculator/assets/60844063/9ece3bdc-be4d-4337-a5e7-9f4285219cd0
+
+
 
 
 ## Features
