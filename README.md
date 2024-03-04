@@ -42,3 +42,5 @@ https://github.com/DaniyalAhmadKhan-LUMS/Jump-Height-Calculator/assets/60844063/
 2. **Keypoint Detection**: Utilizes YOLOv8 to detect and track the keypoints of hips and ankles across all frames of the jump.
 3. **Jump Analysis**: Analyzes the trajectory of the detected keypoints to calculate the jump height.
 4. **Visualization**: Outputs the analyzed video with overlaid keypoints and trajectory information for review and validation.
+
+https://github.com/DaniyalAhmadKhan-LUMS/Jump-Height-Calculator/blob/main/assets/demo1.mp4
