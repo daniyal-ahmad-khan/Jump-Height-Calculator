@@ -6,16 +6,13 @@ This project is designed to calculate the jump height of individuals using video
 Here's a demo of jump height calculation during a Volleyball match:
 
 
-https://github.com/DaniyalAhmadKhan-LUMS/Jump-Height-Calculator/assets/60844063/f99d0bae-a8d0-4fe0-b92b-80907839fd5e
-
+https://github.com/DaniyalAhmadKhan-LUMS/Jump-Height-Calculator/assets/60844063/8d86b1d2-a2e5-43ff-85ac-6721c509210e
 
 
 Another demo:
 
 
-https://github.com/DaniyalAhmadKhan-LUMS/Jump-Height-Calculator/assets/60844063/9ece3bdc-be4d-4337-a5e7-9f4285219cd0
-
-
+https://github.com/DaniyalAhmadKhan-LUMS/Jump-Height-Calculator/assets/60844063/0e6e4843-8039-4562-8b25-86bc15c985d0
 
 
 ## Features
